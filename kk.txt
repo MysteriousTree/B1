@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1first line changed
 skjfkjdsfkjhf
 dsdd
@@ -6,3 +7,13 @@ salunke
 shivaji
 slkjflkdjf
 3last line changed
+=======
+first line changed1
+skjfkjdsfkjhf
+dsdd
+middle line changed2
+salunke
+shivaji
+slkjflkdjf
+last line changed3
+>>>>>>> 8c896cc3b9f27fd75cc8fd1aef590cd3f8717486
